@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "@emotion/react": "^11.13.5",
+    "@emotion/styled": "^11.13.5",
+    "@hookform/resolvers": "^3.9.1",
+    "bad-words": "^4.0.0",
+    "formik": "^2.4.6",
+    "mui-datatables": "^4.3.0",
+    "react-hook-form": "^7.53.2",
+    "recharts": "^2.13.3",
+    "yup": "^1.4.0"
+  }
+}
